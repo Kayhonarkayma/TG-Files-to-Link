@@ -8,7 +8,7 @@
   ],
  "repository": "https://github.com/Kayhonarkayma"
 
-" ,
+,
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
